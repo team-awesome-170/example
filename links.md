@@ -1,33 +1,33 @@
 relevant links to github tutorials, essays, graphics and info. 
 
 
-(https://notes.almccann.com/git-github/)
+[git-github](https://notes.almccann.com/git-github/)
 
-(https://maryrosecook.com/blog/post/git-from-the-inside-out)
+[git-from-the-inside-out](https://maryrosecook.com/blog/post/git-from-the-inside-out)
 
 [intuitive git aliases](http://gggritso.com/human-git-aliases)
 
-(http://www.anishathalye.com/2016/04/25/dropbox-as-a-true-git-server/)
+[dropbox-as-a-true-git-server](http://www.anishathalye.com/2016/04/25/dropbox-as-a-true-git-server/)
 
-(http://ianmiell.github.io/git-rebase-tutorial/)
+[git-rebase-tutorial](http://ianmiell.github.io/git-rebase-tutorial/)
 
-(https://gist.github.com/dmglab/8402579)
+[gist.github.com/dmglab/8402579](https://gist.github.com/dmglab/8402579)
 
-(http://blog.goguardian.com/nerds/ungit-the-easiest-way-to-use-git)
+[ungit-the-easiest-way-to-use-git](http://blog.goguardian.com/nerds/ungit-the-easiest-way-to-use-git)
 
-(https://juristr.com/blog/2014/09/implementing-the-git-flow/)
+[implementing-the-git-flow](https://juristr.com/blog/2014/09/implementing-the-git-flow/)
 
-(https://juristr.com/blog/2013/04/git-explained/)
+[git-explained](https://juristr.com/blog/2013/04/git-explained/)
 
-(http://nvie.com/posts/a-successful-git-branching-model/)
+[a-successful-git-branching-mode](http://nvie.com/posts/a-successful-git-branching-model/)
 
-(http://www.ndpsoftware.com/git-cheatsheet.html)
+[git-cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html)
 
-(https://github.com/open-source-society/computer-science)
+[open-source-society/computer-science](https://github.com/open-source-society/computer-science)
 
-(https://wildlyinaccurate.com/a-hackers-guide-to-git/)
+[a-hackers-guide-to-git](https://wildlyinaccurate.com/a-hackers-guide-to-git/)
 
-(http://think-like-a-git.net/)
+[think-like-a-git](http://think-like-a-git.net/)
 
 
 
