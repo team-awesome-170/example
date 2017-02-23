@@ -5,7 +5,7 @@ relevant links to github tutorials, essays, graphics and info.
 
 (https://maryrosecook.com/blog/post/git-from-the-inside-out)
 
-(http://gggritso.com/human-git-aliases)
+[intuitive git aliases](http://gggritso.com/human-git-aliases)
 
 (http://www.anishathalye.com/2016/04/25/dropbox-as-a-true-git-server/)
 
