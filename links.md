@@ -29,5 +29,6 @@ relevant links to github tutorials, essays, graphics and info.
 
 [think-like-a-git](http://think-like-a-git.net/)
 
+# [Git Animation step-by-step getting started](http://pel-daniel.github.io/git-init/)
 
 
